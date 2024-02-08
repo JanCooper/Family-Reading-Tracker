@@ -1,0 +1,1 @@
+PGPASSWORD='I@mlovedby>1'  psql -U 'janco' -d 'family_reading_tracker' -c " SELECT * FROM books"; 
